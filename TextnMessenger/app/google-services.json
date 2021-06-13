@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886915346562",
+    "firebase_url": "https://textnmessenger-78a8a.firebaseio.com",
+    "project_id": "textnmessenger-78a8a",
+    "storage_bucket": "textnmessenger-78a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886915346562:android:7ee17186fcc2a6f1",
+        "android_client_info": {
+          "package_name": "com.example.textnmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886915346562-fg8e0rbeafgu76g1s9r6m3if89t77s9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textnmessenger",
+            "certificate_hash": "79ba31901c3bef0de43faa77121101d40be5b319"
+          }
+        },
+        {
+          "client_id": "886915346562-l3f7sq6ffvshhp72l7rht4h31b9m8ent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYmm7_zu2ZvFmKKnljOzLGN05mWSwQEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886915346562-l3f7sq6ffvshhp72l7rht4h31b9m8ent.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
